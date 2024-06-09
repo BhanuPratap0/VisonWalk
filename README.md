@@ -21,4 +21,4 @@ Technology Stack
 •	Utilization of hardware components such as smartphones or tablets for AR display. </br>
 
 <h2>Project Demo:</h2> [Demo Video](https://drive.google.com/file/d/1s6tbgaF0gaXBsFOrO0qZXoSRU_dctjUz/view?usp=sharing)</br>
-<h2>Project Adnroid Apk Link:</h2> [Apk Download Link](https://drive.google.com/file/d/1C6IAqW56ppJ3K7lueN6r6MlxqoKka1ra/view?usp=sharing)</br>
+<h2>Project Android Apk Link:</h2> [Apk Download Link](https://drive.google.com/file/d/1C6IAqW56ppJ3K7lueN6r6MlxqoKka1ra/view?usp=sharing)</br>
